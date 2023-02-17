@@ -1,0 +1,8 @@
+{
+  "name": "simple-node-server",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/MaxenceCalifano/simple-node-js-server",
+  "author": "Maxence Califano",
+  "license": "MIT"
+}
